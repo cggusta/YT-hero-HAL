@@ -1,11 +1,8 @@
 html,body {
 	margin:0;
-	padding;0;
+	padding:0;
 }
 
-#csVideoContainer {
-	background-image: url('images/1400x350_HalfMoonCay_hero.jpg');
-}
 #micrositeHeader{
   /*min-height: 350px;*/
   background-position: center;
